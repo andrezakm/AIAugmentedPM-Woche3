@@ -6,12 +6,12 @@ In dieser Woche lernst du wie Claude Code aus einfachen Markdown-Dateien ein str
 
 - Claude Code installiert (`npm install -g @anthropic-ai/claude-code`)
 - Woche 1 und Woche 2 abgeschlossen (hilfreich, aber nicht zwingend)
-- Anthropic API Key gesetzt (`export ANTHROPIC_API_KEY=...`)
+- Claude über Anthropic login authentifiziert
 
 ## Installation
 
-1. Öffne diesen Ordner: `cd Woche3SkillsAgents/`
-2. Starte Claude Code: `claude`
+1. Kopiere wieder dieses Reopitory (z. Bsp. zip herunterladen)
+2. Starte Claude Code in dem entstehenden Verzichnis: `claude`
 
 ## Kurse starten
 
