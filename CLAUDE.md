@@ -11,6 +11,10 @@ NeoEmployee baut custom AI Agenten, die Mitarbeiterfähigkeiten in Unternehmen e
 - Alle Outputs landen in `output/`
 - Skills liegen in `.claude/skills/`, Agents in `.claude/agents/`
 
+## Sprache
+
+Alle Outputs immer mit korrekten deutschen Umlauten: ä, ö, ü, Ä, Ö, Ü, ß. Keine ASCII-Ersetzungen (ae, oe, ue).
+
 ## Qualitätsstandard
 
 Keine Spekulation. Nur was in den Daten steht. Jede Aussage muss auf eine Quelldatei rückverfolgbar sein. Widersprüche werden dokumentiert, nicht geglättet.

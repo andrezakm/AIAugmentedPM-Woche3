@@ -54,3 +54,14 @@ Schreibe `output/01_clusters_RUN_ID.md` mit folgendem Format:
 ## Output
 
 Schreibe die fertige Analyse nach `output/01_clusters_RUN_ID.md` — wobei `RUN_ID` der vom Agenten übergebene Timestamp ist (z.B. `output/01_clusters_20260326_1430.md`).
+
+## Rückmeldung an den Agenten
+
+Gib als **letzten Output** eine strukturierte Zusammenfassung deiner Arbeit zurück:
+
+```
+### Skill-Report: feedback-synthesizer
+- **Gelesene Dateien:** [alle gelesenen Dateien]
+- **Entscheidungen:** [z.B. welche Cluster gebildet, wie viele Nennungen zugeordnet]
+- **Geschriebene Datei:** [Pfad der Output-Datei]
+```

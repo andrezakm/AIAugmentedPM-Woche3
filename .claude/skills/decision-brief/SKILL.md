@@ -61,3 +61,14 @@ Schreibe `output/03_decision_brief_RUN_ID.md` mit folgendem Format:
 ## Output
 
 Schreibe den fertigen Brief nach `output/03_decision_brief_RUN_ID.md` (RUN_ID vom Agenten übergeben, z.B. `output/03_decision_brief_20260326_1430.md`).
+
+## Rückmeldung an den Agenten
+
+Gib als **letzten Output** eine strukturierte Zusammenfassung deiner Arbeit zurück:
+
+```
+### Skill-Report: decision-brief
+- **Gelesene Dateien:** [alle gelesenen Dateien]
+- **Entscheidungen:** [z.B. Empfehlung BUILD/SKIP/MEHR DATEN, gewählte Opportunity]
+- **Geschriebene Datei:** [Pfad der Output-Datei]
+```

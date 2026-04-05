@@ -55,3 +55,14 @@ Schreibe `output/02_scored_RUN_ID.md` mit folgendem Format:
 ## Output
 
 Schreibe die fertige Scorecard nach `output/02_scored_RUN_ID.md` (RUN_ID vom Agenten übergeben, z.B. `output/02_scored_20260326_1430.md`).
+
+## Rückmeldung an den Agenten
+
+Gib als **letzten Output** eine strukturierte Zusammenfassung deiner Arbeit zurück:
+
+```
+### Skill-Report: opportunity-scorer
+- **Gelesene Dateien:** [alle gelesenen Dateien]
+- **Entscheidungen:** [z.B. Score-Vergabe pro Cluster, höchster/niedrigster Score]
+- **Geschriebene Datei:** [Pfad der Output-Datei]
+```
