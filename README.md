@@ -41,9 +41,6 @@ Oder sagen: "starte den MCP-Kurs"
 | `context/` | NeoEmployee-Kontext (company.md, strategy.md) |
 | `input/` | Rohes Kundenfeedback |
 | `output/` | Entsteht beim Ausführen des Agenten |
-| `SkillsAgentsDoc.md` | Zusatzmaterial: Skills vs. Agents Taxonomie |
-| `MCPKonnektorenDoc.md` | Zusatzmaterial: MCP von einfach zu komplex |
-| `ClaudeRemoteDoc.md` | Zusatzmaterial: Remote Interfaces & Computer Use |
 
 ## Modell-Empfehlung
 

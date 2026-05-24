@@ -186,11 +186,3 @@ Schreib deine Antworten auf — oder diskutiere sie direkt hier im Chat.
 ---
 
 **Woche 3 abgeschlossen.**
-
----
-
-## Zusatzmaterial
-
-- `SkillsAgentsDoc.md` — Taxonomie, Entstehungsweg und Entscheidungsbaum: wann wird ein Experiment zum Skill, wann zum Agent?
-- `MCPKonnektorenDoc.md` — MCP von einfach zu komplex: Konnektoren, `/mcp add`, Custom Server, Custom Skript
-- `ClaudeRemoteDoc.md` — Remote Interfaces: Channels (Telegram/Discord/iMessage), Remote Control, Computer Use
